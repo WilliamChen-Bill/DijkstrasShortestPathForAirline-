@@ -11,17 +11,6 @@ Things that could be improved through future projects:
 <describe a few things that your team can improve upon through future projects>
 
 
-Data Wrangler Section:
-----------------------
-@wisc.edu Email: <enter your email here>
-Files Written By: <list files you have written here>
-Additional Contributions: <list any non-code contributions to team work here>
-Referenced Works: <cite any code not writen by you explicitly for this projec here, for example:
-work reused from a previous course, examples taken from any website or book, or any other author,
-if none, explicitly replace this double quoted text with the word "none">
-Signature: <type full name to certify that the details above are truthful and complete>
-
-
 Back End Developer Section:
 ---------------------------
 @wisc.edu Email: wchen469@wisc.edu 
@@ -36,22 +25,3 @@ Referenced Works:
             note that angles need to be in radians to pass to trig functions!
     Source Website:https://www.igismap.com/haversine-formula-calculate-geographic-distance-earth/
 Signature: Wei-Jen Chen
-
-Front End Developer: 
---------------------
-@wisc.edu Email: <enter your email here>
-Files Written By: <list files you have written here>
-Additional Contributions: <list any non-code contributions to team work here>
-Referenced Works: <cite any code not writen by you explicitly for this projec here, for example:
-work reused from a previous course, examples taken from any website or book, or any other author,
-if none, explicitly replace this double quoted text with the word "none">
-Signature: <type full name to certify that the details above are truthful and complete>
-
-Integration Manager:
---------------------
-@wisc.edu Email: zzhu344@wisc.edu
-Files Written By: LASApp.java, LASTest.java, Makefile
-Additional Contributions: README.txt
-Referenced Works: none
-Signature: Julian Zhu
-
